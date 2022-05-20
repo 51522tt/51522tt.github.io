@@ -504,4 +504,3 @@ async function fj(param) {
 // 	}
 // }
 init()
-openConf('zanzhu')
