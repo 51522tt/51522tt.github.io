@@ -88,7 +88,7 @@ onclick="changeMainWin()">≤</div>
 <div style="">
     <div style="display:flex">装备品质: &nbsp;&nbsp;
         <span style="color: #bebebe;"><input name="灰色" class="pzBox" type="checkbox"
-                value="1" />灰色/span>&nbsp;&nbsp;
+                value="1" />灰色</span>&nbsp;&nbsp;
         <span style="color: #ffffff;"><input name="白色" class="pzBox" type="checkbox"
                 value="2" />白色</span>&nbsp;&nbsp;
         <span style="color: #3be643;"><input name="绿色" class="pzBox" type="checkbox"
