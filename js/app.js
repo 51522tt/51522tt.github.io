@@ -85,7 +85,7 @@ onclick="changeMainWin()">≤</div>
 </div>
 <div id="fjConf" style="display: none;">
 <div style="display: flex;flex-direction: column;">
-<div style="display: flex;">
+<div style="">
     <div style="width: 150px;">装备品质: <br>
         <span style="color: #bebebe;"><input name="灰色" class="pzBox" type="checkbox"
                 value="1" />灰色<br></span>
