@@ -68,7 +68,7 @@ const mainContent = `  <span id="operWin" style="padding: 1px;">
 		<br>
     <span>只此一字,贯穿一生</span>
 </div>
-<div style="margin-nt">version:v0.0.1-简陋先行版</div>
+<div style="margin-nt">version:v0.0.2-简陋先行版</div>
 </span>
 <div id="showBtn" style="cursor: pointer;height: 100%;background-color: #f7882e;border-radius: 0 3px 3px 0;"
 onclick="changeMainWin()">≤</div>
@@ -86,21 +86,21 @@ onclick="changeMainWin()">≤</div>
 <div id="fjConf" style="display: none;">
 <div style="display: flex;flex-direction: column;">
 <div style="">
-    <div style="width: 150px;">装备品质: <br>
+    <div style="display:flex">装备品质: &nbsp;&nbsp;
         <span style="color: #bebebe;"><input name="灰色" class="pzBox" type="checkbox"
-                value="1" />灰色<br></span>
+                value="1" />灰色/span>&nbsp;&nbsp;
         <span style="color: #ffffff;"><input name="白色" class="pzBox" type="checkbox"
-                value="2" />白色<br></span>
+                value="2" />白色</span>&nbsp;&nbsp;
         <span style="color: #3be643;"><input name="绿色" class="pzBox" type="checkbox"
-                value="3" />绿色<br></span>
+                value="3" />绿色</span>&nbsp;&nbsp;
         <span style="color: #3489f8;"><input name="蓝色" class="pzBox" type="checkbox"
-                value="4" />蓝色<br></span>
+                value="4" />蓝色</span>&nbsp;&nbsp;
         <span style="color: #9f22f1;"><input name="紫色" class="pzBox" type="checkbox"
-                value="5" />紫色<br></span>
+                value="5" />紫色</span>&nbsp;&nbsp;
         <span style="color: #ee0909;"><input name="红色" class="pzBox" type="checkbox" disabled
-                value="6" />红色<br></span>
+                value="6" />红色</span>&nbsp;&nbsp;
         <span style="color: #f7882e;"><input name="橙色" class="pzBox" type="checkbox" disabled
-                value="7" />橙色<br></span>
+                value="7" />橙色</span>
     </div>
 </div>
 <div>
