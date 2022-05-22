@@ -449,7 +449,7 @@ class ToolsClass {
         <br>
         <span>只此一字,贯穿一生</span>
     </div>
-    <div style="margin-bottom: 2px;">version:v0.1.0-简陋先行版</div>
+    <div style="margin-bottom: 2px;">version:v0.2.0-简陋dev版</div>
 </span>
 <div class="showBtn" style="cursor: pointer;height: 100%;background-color: #f7882e;border-radius: 0 3px 3px 0;">≤</div>
 		`
